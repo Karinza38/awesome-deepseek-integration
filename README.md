@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <p align="center">
 <img width="1000px" alt="Awesome DeepSeek Integrations" src="docs/Awesome DeepSeek Integrations.png">
